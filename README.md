@@ -1,2 +1,0 @@
-# PwaTimer
-tIMER
